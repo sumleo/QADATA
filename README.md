@@ -1,2 +1,0 @@
-# QADATA
-Management 
